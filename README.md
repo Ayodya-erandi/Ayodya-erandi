@@ -1,4 +1,4 @@
-### Hi there, I'm Ayodya - aka [codeSTACKr][website] 👋
+### Hi there, I'm Ayodya 👋
 
 ## I'm an undergraduate of Computer Science and Engineering
 
